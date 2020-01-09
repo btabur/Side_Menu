@@ -17,7 +17,9 @@ repositories {
         transitive = true;
     }
     
-   1.3) for side menu
+ 1.3) for side menu
+   
+   
   implementation 'com.github.yalantis:Side-Menu.Android:1.0.1'
 
    
