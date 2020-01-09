@@ -31,8 +31,8 @@ repositories {
   3.) String values
   
   
-   // <string name="drawer_open">Open</string>
-   // <string name="drawer_close">Close</string>
+   // string name="drawer_open">Open</string>
+   // string name="drawer_close">Close</string>
     
  4) go to activity_main.xml
  
